@@ -1,0 +1,1 @@
+-- el comando group_by es un comando de agrupacion no se filtracion
